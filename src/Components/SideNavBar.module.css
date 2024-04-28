@@ -1,0 +1,30 @@
+.card{
+
+    width: 20%;
+    height: 60vh;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    margin-right: 10px;
+    padding: 20px;
+
+}
+
+
+.list{
+    display: flex;
+    font-weight: 500;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.list:hover{
+
+    background: rgb(137, 137, 219);
+    color: white;
+    transition-delay: 20ms;
+
+
+}

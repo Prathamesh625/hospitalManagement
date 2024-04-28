@@ -1,0 +1,14 @@
+.header{
+
+    padding: 30px;
+    border-radius: 10px;
+ 
+    margin-bottom: 20px;
+    background-color: white;
+
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}

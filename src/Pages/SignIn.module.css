@@ -1,0 +1,46 @@
+.card {
+
+    padding: 20px;
+    width: 350px;
+    /* height: 400px; */
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+
+
+
+.title{
+
+font-size: larger;
+font-weight: 400;
+text-align: center;
+color: rgb(99, 96, 96);
+
+}
+
+.input{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(197, 192, 192);
+    margin-top: 30px;
+}
+
+.button{
+
+    padding: 10px;
+        border-radius: 5px;
+        border: 1px solid rgb(197, 192, 192);
+        margin-top: 20px;
+        background-color: rgb(101, 101, 184);
+        color: white;
+        font-weight: bold;
+
+}
